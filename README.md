@@ -1,6 +1,6 @@
 # Data Analysis Portfolio – Jonatan Bayer
 
-Este repositório reúne projetos práticos de **Análise de Dados **,
+Este repositório reúne projetos práticos de ** Análise de Dados **,
 desenvolvidos a partir de bases de dados reais, com foco em gerar insights
 e apoiar a tomada de decisão.
 
