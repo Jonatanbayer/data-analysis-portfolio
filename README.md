@@ -1,16 +1,16 @@
 # Data Analysis Portfolio – Jonatan Bayer
 
-Este repositório reúne projetos práticos de **Análise de Dados**,
-desenvolvidos a partir de bases de dados reais, com foco em gerar insights
-e apoiar a tomada de decisão.
+This repository brings together practical **Data Analysis** projects,
+developed from real databases, focusing on generating insights
+and supporting decision-making.
 
-Os projetos cobrem todo o fluxo de análise:
-coleta de dados, limpeza, processamento, análise exploratória,
-visualização e interpretação dos resultados.
+The projects cover the entire analysis workflow:
+data collection, cleaning, processing, exploratory analysis,
+visualization and interpretation of results.
 
 ---
 
-## Tecnologias Utilizadas
+## Technologies used
 - Python (pandas, numpy, matplotlib, seaborn)
 - SQL
 - Excel
@@ -19,8 +19,8 @@ visualização e interpretação dos resultados.
 
 ---
 
-## Objetivo do Portfólio
-Demonstrar habilidades práticas em análise de dados e comunicação de insights de forma clara e estruturada.
+## Portfolio objective
+Demonstrate practical skills in data analysis and communicating insights in a clear and structured way.
 
-📫 Contato:  
+📫 Contact:  
 LinkedIn: [Jonatan Bayer](https://www.linkedin.com/in/jonatan-bayer)
