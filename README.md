@@ -19,8 +19,5 @@ visualization and interpretation of results.
 
 ---
 
-## Portfolio objective
-Demonstrate practical skills in data analysis and communicating insights in a clear and structured way.
-
 📫 Contact:  
 LinkedIn: [Jonatan Bayer](https://www.linkedin.com/in/jonatan-bayer)
