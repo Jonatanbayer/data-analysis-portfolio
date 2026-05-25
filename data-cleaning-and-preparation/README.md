@@ -17,8 +17,3 @@ such as missing values, inconsistencies, and unstructured data.
 - Python
 - pandas
 - numpy
-
-## Category Objective
-To showcase the ability to transform raw, messy data into reliable,
-well-structured datasets ready for analysis — a critical skill
-for data analysts.
