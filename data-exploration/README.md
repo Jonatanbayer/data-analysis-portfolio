@@ -22,7 +22,3 @@ The projects in this section demonstrate my ability to:
 - numpy
 - matplotlib
 - seaborn
-
-## Category Objective
-To demonstrate proficiency in data exploration as a foundation
-for deeper analysis and data-driven decision-making.
