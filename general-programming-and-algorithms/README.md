@@ -19,8 +19,3 @@ These projects highlight my ability to:
 
 ## Technologies Used
 - Python
-
-## Category Objective
-To demonstrate strong programming fundamentals,
-which are essential for data analysis, automation,
-and building more complex solutions.
